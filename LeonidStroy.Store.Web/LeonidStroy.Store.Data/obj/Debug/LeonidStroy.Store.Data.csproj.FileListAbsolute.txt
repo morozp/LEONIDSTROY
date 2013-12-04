@@ -1,0 +1,5 @@
+D:\Projects\LeonidStroy.Store.Web\LeonidStroy.Store.Data\bin\Debug\LeonidStroy.Store.Data.dll
+D:\Projects\LeonidStroy.Store.Web\LeonidStroy.Store.Data\bin\Debug\LeonidStroy.Store.Data.pdb
+D:\Projects\LeonidStroy.Store.Web\LeonidStroy.Store.Data\obj\Debug\LeonidStroy.Store.Data.csprojResolveAssemblyReference.cache
+D:\Projects\LeonidStroy.Store.Web\LeonidStroy.Store.Data\obj\Debug\LeonidStroy.Store.Data.dll
+D:\Projects\LeonidStroy.Store.Web\LeonidStroy.Store.Data\obj\Debug\LeonidStroy.Store.Data.pdb

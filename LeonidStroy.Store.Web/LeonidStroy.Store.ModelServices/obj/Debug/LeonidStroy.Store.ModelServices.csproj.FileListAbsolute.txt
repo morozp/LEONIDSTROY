@@ -1,0 +1,4 @@
+D:\Projects\LeonidStroy.Store.Web\LeonidStroy.Store.ModelServices\bin\Debug\LeonidStroy.Store.ModelServices.dll
+D:\Projects\LeonidStroy.Store.Web\LeonidStroy.Store.ModelServices\bin\Debug\LeonidStroy.Store.ModelServices.pdb
+D:\Projects\LeonidStroy.Store.Web\LeonidStroy.Store.ModelServices\obj\Debug\LeonidStroy.Store.ModelServices.dll
+D:\Projects\LeonidStroy.Store.Web\LeonidStroy.Store.ModelServices\obj\Debug\LeonidStroy.Store.ModelServices.pdb
