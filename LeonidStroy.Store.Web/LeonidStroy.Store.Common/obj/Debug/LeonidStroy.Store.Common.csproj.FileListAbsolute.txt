@@ -1,4 +1,0 @@
-D:\Projects\LeonidStroy.Store.Web\LeonidStroy.Store.Common\bin\Debug\LeonidStroy.Store.Common.dll
-D:\Projects\LeonidStroy.Store.Web\LeonidStroy.Store.Common\bin\Debug\LeonidStroy.Store.Common.pdb
-D:\Projects\LeonidStroy.Store.Web\LeonidStroy.Store.Common\obj\Debug\LeonidStroy.Store.Common.dll
-D:\Projects\LeonidStroy.Store.Web\LeonidStroy.Store.Common\obj\Debug\LeonidStroy.Store.Common.pdb
